@@ -1,0 +1,7 @@
+transformers
+torch
+llama_index
+llama_index-embeddings-huggingface
+llama_index-embeddings-huggingface-optimum
+openai
+pytrec_eval
